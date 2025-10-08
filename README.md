@@ -1,4 +1,4 @@
-![Multi-step Form](https://github.com/catherineisonline/multi-step-form-frontendmentor/blob/main/src/assets/preview.png?raw=true)
+![Multi-step Form](https://raw.githubusercontent.com/server-upload-nxtgen/multi-step-form/refs/heads/main/src/assets/preview.png)
 
 <h1 align="center">Multi-step Form</h1>
 
@@ -49,3 +49,4 @@ I do not have access to the Figma sketch so the design is not pixel perfect.
 ## Acknowledgments
 
 A big thank you to anyone providing feedback on my [solution](https://www.frontendmentor.io/solutions/multi-step-form-g4hNvPeYzM). It definitely helps to find new ways to code and find easier solutions!
+
